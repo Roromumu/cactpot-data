@@ -194,14 +194,6 @@ A: 發Issue或PR修正，維護數據品質是大家的責任。
 
 ---
 
-## 🔗 相關連結
-
-- **分析器網址**: [待補充]
-- **問題回報**: [Issues](https://github.com/Roromumu/cactpot-data/issues)
-- **討論區**: [Discussions](https://github.com/Roromumu/cactpot-data/discussions)
-
----
-
 ## 📜 授權
 
 此專案數據採用 **CC0 1.0 (公眾領域)** 授權。
