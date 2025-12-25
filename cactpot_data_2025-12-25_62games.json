@@ -1,0 +1,8011 @@
+{
+  "version": "1.0",
+  "exportDate": "2025-12-25T06:04:49.184Z",
+  "totalGames": 62,
+  "data": [
+    {
+      "timestamp": "2025-12-03T06:09:16.705Z",
+      "fullGrid": [
+        [
+          9,
+          4,
+          6
+        ],
+        [
+          5,
+          1,
+          8
+        ],
+        [
+          2,
+          7,
+          3
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            9,
+            4,
+            6
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            5,
+            1,
+            8
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            2,
+            7,
+            3
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            9,
+            5,
+            2
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            4,
+            1,
+            7
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            6,
+            8,
+            3
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            9,
+            1,
+            3
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            6,
+            1,
+            2
+          ],
+          "sum": 9,
+          "reward": 360
+        }
+      ],
+      "recommendedByBalanced": "第1橫列",
+      "recommendedByConservative": "第2直列",
+      "recommendedByAggressive": "第1橫列",
+      "recommendedByLearned": null,
+      "recommendedLine": "第1橫列",
+      "recommendedReward": 360,
+      "selectedLine": "第1橫列",
+      "selectedLineValues": [
+        9,
+        4,
+        6
+      ],
+      "selectedSum": 19,
+      "actualReward": 36,
+      "followedBalanced": true,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": false,
+      "followedRecommendation": true,
+      "actualBestLine": "右斜線",
+      "actualBestReward": 360,
+      "isOptimal": false,
+      "missedReward": 324,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-03T12:23:02.493Z",
+      "fullGrid": [
+        [
+          9,
+          1,
+          7
+        ],
+        [
+          4,
+          2,
+          6
+        ],
+        [
+          3,
+          5,
+          8
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            9,
+            1,
+            7
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            4,
+            2,
+            6
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            3,
+            5,
+            8
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            9,
+            4,
+            3
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            1,
+            2,
+            5
+          ],
+          "sum": 8,
+          "reward": 720
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            7,
+            6,
+            8
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            9,
+            2,
+            8
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            7,
+            2,
+            3
+          ],
+          "sum": 12,
+          "reward": 108
+        }
+      ],
+      "recommendedByBalanced": "第1橫列",
+      "recommendedByConservative": "第1橫列",
+      "recommendedByAggressive": "第1橫列",
+      "recommendedByLearned": null,
+      "recommendedLine": "第1橫列",
+      "recommendedReward": 1080,
+      "selectedLine": "第1橫列",
+      "selectedLineValues": [
+        9,
+        1,
+        7
+      ],
+      "selectedSum": 17,
+      "actualReward": 180,
+      "followedBalanced": true,
+      "followedConservative": true,
+      "followedAggressive": true,
+      "followedLearned": false,
+      "followedRecommendation": true,
+      "actualBestLine": "第3直列",
+      "actualBestReward": 1080,
+      "isOptimal": false,
+      "missedReward": 900,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-03T12:24:49.155Z",
+      "fullGrid": [
+        [
+          1,
+          8,
+          3
+        ],
+        [
+          2,
+          9,
+          7
+        ],
+        [
+          5,
+          6,
+          4
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            1,
+            8,
+            3
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            2,
+            9,
+            7
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            5,
+            6,
+            4
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            1,
+            2,
+            5
+          ],
+          "sum": 8,
+          "reward": 720
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            8,
+            9,
+            6
+          ],
+          "sum": 23,
+          "reward": 1800
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            3,
+            7,
+            4
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            1,
+            9,
+            4
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            3,
+            9,
+            5
+          ],
+          "sum": 17,
+          "reward": 180
+        }
+      ],
+      "recommendedByBalanced": "第2直列",
+      "recommendedByConservative": "第3直列",
+      "recommendedByAggressive": "第2直列",
+      "recommendedByLearned": null,
+      "recommendedLine": "第2直列",
+      "recommendedReward": 1800,
+      "selectedLine": "第2直列",
+      "selectedLineValues": [
+        8,
+        9,
+        6
+      ],
+      "selectedSum": 23,
+      "actualReward": 1800,
+      "followedBalanced": true,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": false,
+      "followedRecommendation": true,
+      "actualBestLine": "第2直列",
+      "actualBestReward": 1800,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": true,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-06T13:56:02.986Z",
+      "fullGrid": [
+        [
+          7,
+          2,
+          1
+        ],
+        [
+          6,
+          5,
+          3
+        ],
+        [
+          9,
+          8,
+          4
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            7,
+            2,
+            1
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            6,
+            5,
+            3
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            9,
+            8,
+            4
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            7,
+            6,
+            9
+          ],
+          "sum": 22,
+          "reward": 144
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            2,
+            5,
+            8
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            1,
+            3,
+            4
+          ],
+          "sum": 8,
+          "reward": 720
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            7,
+            5,
+            4
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            1,
+            5,
+            9
+          ],
+          "sum": 15,
+          "reward": 180
+        }
+      ],
+      "recommendedByBalanced": "第3直列",
+      "recommendedByConservative": "第3直列",
+      "recommendedByAggressive": "第1直列",
+      "recommendedByLearned": null,
+      "recommendedLine": "第3直列",
+      "recommendedReward": 1080,
+      "selectedLine": "第3直列",
+      "selectedLineValues": [
+        1,
+        3,
+        4
+      ],
+      "selectedSum": 8,
+      "actualReward": 720,
+      "followedBalanced": true,
+      "followedConservative": true,
+      "followedAggressive": false,
+      "followedLearned": false,
+      "followedRecommendation": true,
+      "actualBestLine": "第3橫列",
+      "actualBestReward": 1080,
+      "isOptimal": false,
+      "missedReward": 360,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-06T13:58:13.047Z",
+      "fullGrid": [
+        [
+          4,
+          6,
+          5
+        ],
+        [
+          9,
+          7,
+          1
+        ],
+        [
+          2,
+          3,
+          8
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            4,
+            6,
+            5
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            9,
+            7,
+            1
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            2,
+            3,
+            8
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            4,
+            9,
+            2
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            6,
+            7,
+            3
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            5,
+            1,
+            8
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            4,
+            7,
+            8
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            5,
+            7,
+            2
+          ],
+          "sum": 14,
+          "reward": 54
+        }
+      ],
+      "recommendedByBalanced": "第3橫列",
+      "recommendedByConservative": "第1橫列",
+      "recommendedByAggressive": "第3橫列",
+      "recommendedByLearned": null,
+      "recommendedLine": "第3橫列",
+      "recommendedReward": 180,
+      "selectedLine": "第3橫列",
+      "selectedLineValues": [
+        2,
+        3,
+        8
+      ],
+      "selectedSum": 13,
+      "actualReward": 72,
+      "followedBalanced": true,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": false,
+      "followedRecommendation": true,
+      "actualBestLine": "第1橫列",
+      "actualBestReward": 180,
+      "isOptimal": false,
+      "missedReward": 108,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": true,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-06T14:01:42.730Z",
+      "fullGrid": [
+        [
+          9,
+          2,
+          8
+        ],
+        [
+          4,
+          7,
+          1
+        ],
+        [
+          6,
+          3,
+          5
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            9,
+            2,
+            8
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            4,
+            7,
+            1
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            6,
+            3,
+            5
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            9,
+            4,
+            6
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            2,
+            7,
+            3
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            8,
+            1,
+            5
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            9,
+            7,
+            5
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            8,
+            7,
+            6
+          ],
+          "sum": 21,
+          "reward": 1080
+        }
+      ],
+      "recommendedByBalanced": "右斜線",
+      "recommendedByConservative": "右斜線",
+      "recommendedByAggressive": "左斜線",
+      "recommendedByLearned": "右斜線",
+      "recommendedLine": "右斜線",
+      "recommendedReward": 1080,
+      "selectedLine": "右斜線",
+      "selectedLineValues": [
+        8,
+        7,
+        6
+      ],
+      "selectedSum": 21,
+      "actualReward": 1080,
+      "followedBalanced": true,
+      "followedConservative": true,
+      "followedAggressive": false,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "左斜線",
+      "actualBestReward": 1080,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": true,
+      "aggressiveWasOptimal": true,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-07T14:10:14.592Z",
+      "fullGrid": [
+        [
+          8,
+          6,
+          1
+        ],
+        [
+          9,
+          2,
+          7
+        ],
+        [
+          3,
+          5,
+          4
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            8,
+            6,
+            1
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            9,
+            2,
+            7
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            3,
+            5,
+            4
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            8,
+            9,
+            3
+          ],
+          "sum": 20,
+          "reward": 306
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            6,
+            2,
+            5
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            1,
+            7,
+            4
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            8,
+            2,
+            4
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            1,
+            2,
+            3
+          ],
+          "sum": 6,
+          "reward": 10000
+        }
+      ],
+      "recommendedByBalanced": "右斜線",
+      "recommendedByConservative": "右斜線",
+      "recommendedByAggressive": "右斜線",
+      "recommendedByLearned": "右斜線",
+      "recommendedLine": "右斜線",
+      "recommendedReward": 10000,
+      "selectedLine": "右斜線",
+      "selectedLineValues": [
+        1,
+        2,
+        3
+      ],
+      "selectedSum": 6,
+      "actualReward": 10000,
+      "followedBalanced": true,
+      "followedConservative": true,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "右斜線",
+      "actualBestReward": 10000,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": true,
+      "aggressiveWasOptimal": true,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-07T14:11:29.731Z",
+      "fullGrid": [
+        [
+          2,
+          4,
+          7
+        ],
+        [
+          6,
+          3,
+          1
+        ],
+        [
+          9,
+          5,
+          8
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            2,
+            4,
+            7
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            6,
+            3,
+            1
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            9,
+            5,
+            8
+          ],
+          "sum": 22,
+          "reward": 144
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            2,
+            6,
+            9
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            4,
+            3,
+            5
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            7,
+            1,
+            8
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            2,
+            3,
+            8
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            7,
+            3,
+            9
+          ],
+          "sum": 19,
+          "reward": 36
+        }
+      ],
+      "recommendedByBalanced": "第3橫列",
+      "recommendedByConservative": "左斜線",
+      "recommendedByAggressive": "第3橫列",
+      "recommendedByLearned": "第3橫列",
+      "recommendedLine": "第3橫列",
+      "recommendedReward": 180,
+      "selectedLine": "第3橫列",
+      "selectedLineValues": [
+        9,
+        5,
+        8
+      ],
+      "selectedSum": 22,
+      "actualReward": 144,
+      "followedBalanced": true,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "第1直列",
+      "actualBestReward": 180,
+      "isOptimal": false,
+      "missedReward": 36,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-07T14:12:35.620Z",
+      "fullGrid": [
+        [
+          1,
+          5,
+          7
+        ],
+        [
+          4,
+          9,
+          3
+        ],
+        [
+          2,
+          8,
+          6
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            1,
+            5,
+            7
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            4,
+            9,
+            3
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            2,
+            8,
+            6
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            1,
+            4,
+            2
+          ],
+          "sum": 7,
+          "reward": 36
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            5,
+            9,
+            8
+          ],
+          "sum": 22,
+          "reward": 144
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            7,
+            3,
+            6
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            1,
+            9,
+            6
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            7,
+            9,
+            2
+          ],
+          "sum": 18,
+          "reward": 119
+        }
+      ],
+      "recommendedByBalanced": "右斜線",
+      "recommendedByConservative": "右斜線",
+      "recommendedByAggressive": "右斜線",
+      "recommendedByLearned": "右斜線",
+      "recommendedLine": "右斜線",
+      "recommendedReward": 144,
+      "selectedLine": "右斜線",
+      "selectedLineValues": [
+        7,
+        9,
+        2
+      ],
+      "selectedSum": 18,
+      "actualReward": 119,
+      "followedBalanced": true,
+      "followedConservative": true,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "第2直列",
+      "actualBestReward": 144,
+      "isOptimal": false,
+      "missedReward": 25,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-08T13:49:15.633Z",
+      "fullGrid": [
+        [
+          1,
+          8,
+          6
+        ],
+        [
+          2,
+          3,
+          5
+        ],
+        [
+          9,
+          4,
+          7
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            1,
+            8,
+            6
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            2,
+            3,
+            5
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            9,
+            4,
+            7
+          ],
+          "sum": 20,
+          "reward": 306
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            1,
+            2,
+            9
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            8,
+            3,
+            4
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            6,
+            5,
+            7
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            1,
+            3,
+            7
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            6,
+            3,
+            9
+          ],
+          "sum": 18,
+          "reward": 119
+        }
+      ],
+      "recommendedByBalanced": "左斜線",
+      "recommendedByConservative": "左斜線",
+      "recommendedByAggressive": "第3直列",
+      "recommendedByLearned": "第3直列",
+      "recommendedLine": "左斜線",
+      "recommendedReward": 306,
+      "selectedLine": "第3直列",
+      "selectedLineValues": [
+        6,
+        5,
+        7
+      ],
+      "selectedSum": 18,
+      "actualReward": 119,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第3橫列",
+      "actualBestReward": 306,
+      "isOptimal": false,
+      "missedReward": 187,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-08T13:50:22.424Z",
+      "fullGrid": [
+        [
+          3,
+          4,
+          2
+        ],
+        [
+          1,
+          6,
+          9
+        ],
+        [
+          7,
+          5,
+          8
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            3,
+            4,
+            2
+          ],
+          "sum": 9,
+          "reward": 360
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            1,
+            6,
+            9
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            7,
+            5,
+            8
+          ],
+          "sum": 20,
+          "reward": 306
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            3,
+            1,
+            7
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            4,
+            6,
+            5
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            2,
+            9,
+            8
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            3,
+            6,
+            8
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            2,
+            6,
+            7
+          ],
+          "sum": 15,
+          "reward": 180
+        }
+      ],
+      "recommendedByBalanced": "左斜線",
+      "recommendedByConservative": "左斜線",
+      "recommendedByAggressive": "第1橫列",
+      "recommendedByLearned": "第1橫列",
+      "recommendedLine": "左斜線",
+      "recommendedReward": 360,
+      "selectedLine": "第1橫列",
+      "selectedLineValues": [
+        3,
+        4,
+        2
+      ],
+      "selectedSum": 9,
+      "actualReward": 360,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第1橫列",
+      "actualBestReward": 360,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": true,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-08T22:45:36.298Z",
+      "fullGrid": [
+        [
+          5,
+          4,
+          6
+        ],
+        [
+          9,
+          3,
+          2
+        ],
+        [
+          8,
+          1,
+          7
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            5,
+            4,
+            6
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            9,
+            3,
+            2
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            8,
+            1,
+            7
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            5,
+            9,
+            8
+          ],
+          "sum": 22,
+          "reward": 144
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            4,
+            3,
+            1
+          ],
+          "sum": 8,
+          "reward": 720
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            6,
+            2,
+            7
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            5,
+            3,
+            7
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            6,
+            3,
+            8
+          ],
+          "sum": 17,
+          "reward": 180
+        }
+      ],
+      "recommendedByBalanced": "第3直列",
+      "recommendedByConservative": "第2直列",
+      "recommendedByAggressive": "第2直列",
+      "recommendedByLearned": "第2直列",
+      "recommendedLine": "第3直列",
+      "recommendedReward": 720,
+      "selectedLine": "第2直列",
+      "selectedLineValues": [
+        4,
+        3,
+        1
+      ],
+      "selectedSum": 8,
+      "actualReward": 720,
+      "followedBalanced": false,
+      "followedConservative": true,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第2直列",
+      "actualBestReward": 720,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": true,
+      "aggressiveWasOptimal": true,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-08T22:52:19.440Z",
+      "fullGrid": [
+        [
+          2,
+          6,
+          9
+        ],
+        [
+          5,
+          7,
+          8
+        ],
+        [
+          1,
+          3,
+          4
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            2,
+            6,
+            9
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            5,
+            7,
+            8
+          ],
+          "sum": 20,
+          "reward": 306
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            1,
+            3,
+            4
+          ],
+          "sum": 8,
+          "reward": 720
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            2,
+            5,
+            1
+          ],
+          "sum": 8,
+          "reward": 720
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            6,
+            7,
+            3
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            9,
+            8,
+            4
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            2,
+            7,
+            4
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            9,
+            7,
+            1
+          ],
+          "sum": 17,
+          "reward": 180
+        }
+      ],
+      "recommendedByBalanced": "第3橫列",
+      "recommendedByConservative": "第3橫列",
+      "recommendedByAggressive": "第2橫列",
+      "recommendedByLearned": "第3橫列",
+      "recommendedLine": "第3橫列",
+      "recommendedReward": 1080,
+      "selectedLine": "第3橫列",
+      "selectedLineValues": [
+        1,
+        3,
+        4
+      ],
+      "selectedSum": 8,
+      "actualReward": 720,
+      "followedBalanced": true,
+      "followedConservative": true,
+      "followedAggressive": false,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "第3直列",
+      "actualBestReward": 1080,
+      "isOptimal": false,
+      "missedReward": 360,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-08T22:53:43.071Z",
+      "fullGrid": [
+        [
+          3,
+          4,
+          1
+        ],
+        [
+          5,
+          2,
+          6
+        ],
+        [
+          8,
+          9,
+          7
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            3,
+            4,
+            1
+          ],
+          "sum": 8,
+          "reward": 720
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            5,
+            2,
+            6
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            8,
+            9,
+            7
+          ],
+          "sum": 24,
+          "reward": 3600
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            3,
+            5,
+            8
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            4,
+            2,
+            9
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            1,
+            6,
+            7
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            3,
+            2,
+            7
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            1,
+            2,
+            8
+          ],
+          "sum": 11,
+          "reward": 252
+        }
+      ],
+      "recommendedByBalanced": "右斜線",
+      "recommendedByConservative": "右斜線",
+      "recommendedByAggressive": "第3橫列",
+      "recommendedByLearned": "第3橫列",
+      "recommendedLine": "右斜線",
+      "recommendedReward": 3600,
+      "selectedLine": "第3橫列",
+      "selectedLineValues": [
+        8,
+        9,
+        7
+      ],
+      "selectedSum": 24,
+      "actualReward": 3600,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第3橫列",
+      "actualBestReward": 3600,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": true,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-09T22:57:02.067Z",
+      "fullGrid": [
+        [
+          6,
+          7,
+          9
+        ],
+        [
+          4,
+          1,
+          8
+        ],
+        [
+          2,
+          3,
+          5
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            6,
+            7,
+            9
+          ],
+          "sum": 22,
+          "reward": 144
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            4,
+            1,
+            8
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            2,
+            3,
+            5
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            6,
+            4,
+            2
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            7,
+            1,
+            3
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            9,
+            8,
+            5
+          ],
+          "sum": 22,
+          "reward": 144
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            6,
+            1,
+            5
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            9,
+            1,
+            2
+          ],
+          "sum": 12,
+          "reward": 108
+        }
+      ],
+      "recommendedByBalanced": "第1橫列",
+      "recommendedByConservative": "第3直列",
+      "recommendedByAggressive": "第1橫列",
+      "recommendedByLearned": "第1橫列",
+      "recommendedLine": "第1橫列",
+      "recommendedReward": 252,
+      "selectedLine": "第1橫列",
+      "selectedLineValues": [
+        6,
+        7,
+        9
+      ],
+      "selectedSum": 22,
+      "actualReward": 144,
+      "followedBalanced": true,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "第2直列",
+      "actualBestReward": 252,
+      "isOptimal": false,
+      "missedReward": 108,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-09T22:58:22.434Z",
+      "fullGrid": [
+        [
+          2,
+          5,
+          6
+        ],
+        [
+          7,
+          4,
+          3
+        ],
+        [
+          1,
+          9,
+          8
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            2,
+            5,
+            6
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            7,
+            4,
+            3
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            1,
+            9,
+            8
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            2,
+            7,
+            1
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            5,
+            4,
+            9
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            6,
+            3,
+            8
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            2,
+            4,
+            8
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            6,
+            4,
+            1
+          ],
+          "sum": 11,
+          "reward": 252
+        }
+      ],
+      "recommendedByBalanced": "第1直列",
+      "recommendedByConservative": "第1直列",
+      "recommendedByAggressive": "第1直列",
+      "recommendedByLearned": "第1直列",
+      "recommendedLine": "第1直列",
+      "recommendedReward": 252,
+      "selectedLine": "第1直列",
+      "selectedLineValues": [
+        2,
+        7,
+        1
+      ],
+      "selectedSum": 10,
+      "actualReward": 80,
+      "followedBalanced": true,
+      "followedConservative": true,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "右斜線",
+      "actualBestReward": 252,
+      "isOptimal": false,
+      "missedReward": 172,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-09T22:59:48.706Z",
+      "fullGrid": [
+        [
+          4,
+          2,
+          3
+        ],
+        [
+          7,
+          9,
+          5
+        ],
+        [
+          6,
+          8,
+          1
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            4,
+            2,
+            3
+          ],
+          "sum": 9,
+          "reward": 360
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            7,
+            9,
+            5
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            6,
+            8,
+            1
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            4,
+            7,
+            6
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            2,
+            9,
+            8
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            3,
+            5,
+            1
+          ],
+          "sum": 9,
+          "reward": 360
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            4,
+            9,
+            1
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            3,
+            9,
+            6
+          ],
+          "sum": 18,
+          "reward": 119
+        }
+      ],
+      "recommendedByBalanced": "第2橫列",
+      "recommendedByConservative": "第3橫列",
+      "recommendedByAggressive": "第3直列",
+      "recommendedByLearned": "第3直列",
+      "recommendedLine": "第2橫列",
+      "recommendedReward": 1080,
+      "selectedLine": "第3直列",
+      "selectedLineValues": [
+        3,
+        5,
+        1
+      ],
+      "selectedSum": 9,
+      "actualReward": 360,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第2橫列",
+      "actualBestReward": 1080,
+      "isOptimal": false,
+      "missedReward": 720,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-11T10:41:44.749Z",
+      "fullGrid": [
+        [
+          6,
+          9,
+          2
+        ],
+        [
+          8,
+          3,
+          5
+        ],
+        [
+          1,
+          7,
+          4
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            6,
+            9,
+            2
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            8,
+            3,
+            5
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            1,
+            7,
+            4
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            6,
+            8,
+            1
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            9,
+            3,
+            7
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            2,
+            5,
+            4
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            6,
+            3,
+            4
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            2,
+            3,
+            1
+          ],
+          "sum": 6,
+          "reward": 10000
+        }
+      ],
+      "recommendedByBalanced": "右斜線",
+      "recommendedByConservative": "右斜線",
+      "recommendedByAggressive": "右斜線",
+      "recommendedByLearned": "右斜線",
+      "recommendedLine": "右斜線",
+      "recommendedReward": 10000,
+      "selectedLine": "右斜線",
+      "selectedLineValues": [
+        2,
+        3,
+        1
+      ],
+      "selectedSum": 6,
+      "actualReward": 10000,
+      "followedBalanced": true,
+      "followedConservative": true,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "右斜線",
+      "actualBestReward": 10000,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": true,
+      "aggressiveWasOptimal": true,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-11T10:43:01.760Z",
+      "fullGrid": [
+        [
+          2,
+          8,
+          7
+        ],
+        [
+          5,
+          6,
+          3
+        ],
+        [
+          9,
+          1,
+          4
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            2,
+            8,
+            7
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            5,
+            6,
+            3
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            9,
+            1,
+            4
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            2,
+            5,
+            9
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            8,
+            6,
+            1
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            7,
+            3,
+            4
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            2,
+            6,
+            4
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            7,
+            6,
+            9
+          ],
+          "sum": 22,
+          "reward": 144
+        }
+      ],
+      "recommendedByBalanced": "右斜線",
+      "recommendedByConservative": "右斜線",
+      "recommendedByAggressive": "第3橫列",
+      "recommendedByLearned": "第3橫列",
+      "recommendedLine": "右斜線",
+      "recommendedReward": 180,
+      "selectedLine": "第3橫列",
+      "selectedLineValues": [
+        9,
+        1,
+        4
+      ],
+      "selectedSum": 14,
+      "actualReward": 54,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第1橫列",
+      "actualBestReward": 180,
+      "isOptimal": false,
+      "missedReward": 126,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-11T10:44:31.127Z",
+      "fullGrid": [
+        [
+          2,
+          6,
+          3
+        ],
+        [
+          1,
+          4,
+          5
+        ],
+        [
+          9,
+          7,
+          8
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            2,
+            6,
+            3
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            1,
+            4,
+            5
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            9,
+            7,
+            8
+          ],
+          "sum": 24,
+          "reward": 3600
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            2,
+            1,
+            9
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            6,
+            4,
+            7
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            3,
+            5,
+            8
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            2,
+            4,
+            8
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            3,
+            4,
+            9
+          ],
+          "sum": 16,
+          "reward": 72
+        }
+      ],
+      "recommendedByBalanced": "第3橫列",
+      "recommendedByConservative": "右斜線",
+      "recommendedByAggressive": "第1橫列",
+      "recommendedByLearned": "第1橫列",
+      "recommendedLine": "第3橫列",
+      "recommendedReward": 3600,
+      "selectedLine": "第1橫列",
+      "selectedLineValues": [
+        2,
+        6,
+        3
+      ],
+      "selectedSum": 11,
+      "actualReward": 252,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第3橫列",
+      "actualBestReward": 3600,
+      "isOptimal": false,
+      "missedReward": 3348,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-11T22:58:35.393Z",
+      "fullGrid": [
+        [
+          9,
+          1,
+          7
+        ],
+        [
+          5,
+          4,
+          6
+        ],
+        [
+          2,
+          3,
+          8
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            9,
+            1,
+            7
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            5,
+            4,
+            6
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            2,
+            3,
+            8
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            9,
+            5,
+            2
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            1,
+            4,
+            3
+          ],
+          "sum": 8,
+          "reward": 720
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            7,
+            6,
+            8
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            9,
+            4,
+            8
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            7,
+            4,
+            2
+          ],
+          "sum": 13,
+          "reward": 72
+        }
+      ],
+      "recommendedByBalanced": "第3直列",
+      "recommendedByConservative": "第1直列",
+      "recommendedByAggressive": "第1直列",
+      "recommendedByLearned": "第1直列",
+      "recommendedLine": "第3直列",
+      "recommendedReward": 1080,
+      "selectedLine": "第1直列",
+      "selectedLineValues": [
+        9,
+        5,
+        2
+      ],
+      "selectedSum": 16,
+      "actualReward": 72,
+      "followedBalanced": false,
+      "followedConservative": true,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第3直列",
+      "actualBestReward": 1080,
+      "isOptimal": false,
+      "missedReward": 1008,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-11T22:59:53.671Z",
+      "fullGrid": [
+        [
+          9,
+          3,
+          6
+        ],
+        [
+          5,
+          7,
+          2
+        ],
+        [
+          1,
+          8,
+          4
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            9,
+            3,
+            6
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            5,
+            7,
+            2
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            1,
+            8,
+            4
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            9,
+            5,
+            1
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            3,
+            7,
+            8
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            6,
+            2,
+            4
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            9,
+            7,
+            4
+          ],
+          "sum": 20,
+          "reward": 306
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            6,
+            7,
+            1
+          ],
+          "sum": 14,
+          "reward": 54
+        }
+      ],
+      "recommendedByBalanced": "左斜線",
+      "recommendedByConservative": "第3直列",
+      "recommendedByAggressive": "左斜線",
+      "recommendedByLearned": "左斜線",
+      "recommendedLine": "左斜線",
+      "recommendedReward": 306,
+      "selectedLine": "左斜線",
+      "selectedLineValues": [
+        9,
+        7,
+        4
+      ],
+      "selectedSum": 20,
+      "actualReward": 306,
+      "followedBalanced": true,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "左斜線",
+      "actualBestReward": 306,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": true,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-11T23:01:30.967Z",
+      "fullGrid": [
+        [
+          9,
+          6,
+          7
+        ],
+        [
+          4,
+          8,
+          1
+        ],
+        [
+          3,
+          5,
+          2
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            9,
+            6,
+            7
+          ],
+          "sum": 22,
+          "reward": 144
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            4,
+            8,
+            1
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            3,
+            5,
+            2
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            9,
+            4,
+            3
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            6,
+            8,
+            5
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            7,
+            1,
+            2
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            9,
+            8,
+            2
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            7,
+            8,
+            3
+          ],
+          "sum": 18,
+          "reward": 119
+        }
+      ],
+      "recommendedByBalanced": "第3橫列",
+      "recommendedByConservative": "右斜線",
+      "recommendedByAggressive": "第3橫列",
+      "recommendedByLearned": "第3橫列",
+      "recommendedLine": "第3橫列",
+      "recommendedReward": 144,
+      "selectedLine": "第3橫列",
+      "selectedLineValues": [
+        3,
+        5,
+        2
+      ],
+      "selectedSum": 10,
+      "actualReward": 80,
+      "followedBalanced": true,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "第1橫列",
+      "actualBestReward": 144,
+      "isOptimal": false,
+      "missedReward": 64,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-13T01:44:25.033Z",
+      "fullGrid": [
+        [
+          3,
+          2,
+          5
+        ],
+        [
+          1,
+          4,
+          7
+        ],
+        [
+          6,
+          8,
+          9
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            3,
+            2,
+            5
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            1,
+            4,
+            7
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            6,
+            8,
+            9
+          ],
+          "sum": 23,
+          "reward": 1800
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            3,
+            1,
+            6
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            2,
+            4,
+            8
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            5,
+            7,
+            9
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            3,
+            4,
+            9
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            5,
+            4,
+            6
+          ],
+          "sum": 15,
+          "reward": 180
+        }
+      ],
+      "recommendedByBalanced": "第3橫列",
+      "recommendedByConservative": "第3直列",
+      "recommendedByAggressive": "第1橫列",
+      "recommendedByLearned": "第1橫列",
+      "recommendedLine": "第3橫列",
+      "recommendedReward": 1800,
+      "selectedLine": "第1橫列",
+      "selectedLineValues": [
+        3,
+        2,
+        5
+      ],
+      "selectedSum": 10,
+      "actualReward": 80,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第3橫列",
+      "actualBestReward": 1800,
+      "isOptimal": false,
+      "missedReward": 1720,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-13T01:45:33.253Z",
+      "fullGrid": [
+        [
+          3,
+          5,
+          4
+        ],
+        [
+          6,
+          8,
+          9
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            3,
+            5,
+            4
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            6,
+            8,
+            9
+          ],
+          "sum": 23,
+          "reward": 1800
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            2,
+            7,
+            1
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            3,
+            6,
+            2
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            5,
+            8,
+            7
+          ],
+          "sum": 20,
+          "reward": 306
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            4,
+            9,
+            1
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            3,
+            8,
+            1
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            4,
+            8,
+            2
+          ],
+          "sum": 14,
+          "reward": 54
+        }
+      ],
+      "recommendedByBalanced": "第2橫列",
+      "recommendedByConservative": "左斜線",
+      "recommendedByAggressive": "第2直列",
+      "recommendedByLearned": "第2橫列",
+      "recommendedLine": "第2橫列",
+      "recommendedReward": 1800,
+      "selectedLine": "第2橫列",
+      "selectedLineValues": [
+        6,
+        8,
+        9
+      ],
+      "selectedSum": 23,
+      "actualReward": 1800,
+      "followedBalanced": true,
+      "followedConservative": false,
+      "followedAggressive": false,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "第2橫列",
+      "actualBestReward": 1800,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-13T01:47:00.894Z",
+      "fullGrid": [
+        [
+          4,
+          2,
+          9
+        ],
+        [
+          3,
+          8,
+          7
+        ],
+        [
+          6,
+          1,
+          5
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            4,
+            2,
+            9
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            3,
+            8,
+            7
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            6,
+            1,
+            5
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            4,
+            3,
+            6
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            2,
+            8,
+            1
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            9,
+            7,
+            5
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            4,
+            8,
+            5
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            9,
+            8,
+            6
+          ],
+          "sum": 23,
+          "reward": 1800
+        }
+      ],
+      "recommendedByBalanced": "右斜線",
+      "recommendedByConservative": "右斜線",
+      "recommendedByAggressive": "右斜線",
+      "recommendedByLearned": "右斜線",
+      "recommendedLine": "右斜線",
+      "recommendedReward": 1800,
+      "selectedLine": "右斜線",
+      "selectedLineValues": [
+        9,
+        8,
+        6
+      ],
+      "selectedSum": 23,
+      "actualReward": 1800,
+      "followedBalanced": true,
+      "followedConservative": true,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "右斜線",
+      "actualBestReward": 1800,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": true,
+      "aggressiveWasOptimal": true,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-14T11:13:52.511Z",
+      "fullGrid": [
+        [
+          4,
+          2,
+          8
+        ],
+        [
+          1,
+          5,
+          6
+        ],
+        [
+          7,
+          3,
+          9
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            4,
+            2,
+            8
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            1,
+            5,
+            6
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            7,
+            3,
+            9
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            4,
+            1,
+            7
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            2,
+            5,
+            3
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            8,
+            6,
+            9
+          ],
+          "sum": 23,
+          "reward": 1800
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            4,
+            5,
+            9
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            8,
+            5,
+            7
+          ],
+          "sum": 20,
+          "reward": 306
+        }
+      ],
+      "recommendedByBalanced": "第2橫列",
+      "recommendedByConservative": "左斜線",
+      "recommendedByAggressive": "第3直列",
+      "recommendedByLearned": "第3直列",
+      "recommendedLine": "第2橫列",
+      "recommendedReward": 1800,
+      "selectedLine": "第3直列",
+      "selectedLineValues": [
+        8,
+        6,
+        9
+      ],
+      "selectedSum": 23,
+      "actualReward": 1800,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第3直列",
+      "actualBestReward": 1800,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": true,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-14T11:15:00.896Z",
+      "fullGrid": [
+        [
+          3,
+          9,
+          2
+        ],
+        [
+          7,
+          1,
+          6
+        ],
+        [
+          4,
+          8,
+          5
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            3,
+            9,
+            2
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            7,
+            1,
+            6
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            4,
+            8,
+            5
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            3,
+            7,
+            4
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            9,
+            1,
+            8
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            2,
+            6,
+            5
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            3,
+            1,
+            5
+          ],
+          "sum": 9,
+          "reward": 360
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            2,
+            1,
+            4
+          ],
+          "sum": 7,
+          "reward": 36
+        }
+      ],
+      "recommendedByBalanced": "左斜線",
+      "recommendedByConservative": "左斜線",
+      "recommendedByAggressive": "第3橫列",
+      "recommendedByLearned": "左斜線",
+      "recommendedLine": "左斜線",
+      "recommendedReward": 360,
+      "selectedLine": "左斜線",
+      "selectedLineValues": [
+        3,
+        1,
+        5
+      ],
+      "selectedSum": 9,
+      "actualReward": 360,
+      "followedBalanced": true,
+      "followedConservative": true,
+      "followedAggressive": false,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "左斜線",
+      "actualBestReward": 360,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": true,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-14T11:16:11.791Z",
+      "fullGrid": [
+        [
+          3,
+          1,
+          4
+        ],
+        [
+          7,
+          6,
+          9
+        ],
+        [
+          5,
+          8,
+          2
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            3,
+            1,
+            4
+          ],
+          "sum": 8,
+          "reward": 720
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            7,
+            6,
+            9
+          ],
+          "sum": 22,
+          "reward": 144
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            5,
+            8,
+            2
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            3,
+            7,
+            5
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            1,
+            6,
+            8
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            4,
+            9,
+            2
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            3,
+            6,
+            2
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            4,
+            6,
+            5
+          ],
+          "sum": 15,
+          "reward": 180
+        }
+      ],
+      "recommendedByBalanced": "第2直列",
+      "recommendedByConservative": "左斜線",
+      "recommendedByAggressive": "第2直列",
+      "recommendedByLearned": "第2直列",
+      "recommendedLine": "第2直列",
+      "recommendedReward": 720,
+      "selectedLine": "第2直列",
+      "selectedLineValues": [
+        1,
+        6,
+        8
+      ],
+      "selectedSum": 15,
+      "actualReward": 180,
+      "followedBalanced": true,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "第1橫列",
+      "actualBestReward": 720,
+      "isOptimal": false,
+      "missedReward": 540,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-15T11:28:38.197Z",
+      "fullGrid": [
+        [
+          9,
+          5,
+          8
+        ],
+        [
+          1,
+          2,
+          7
+        ],
+        [
+          3,
+          6,
+          4
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            9,
+            5,
+            8
+          ],
+          "sum": 22,
+          "reward": 144
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            1,
+            2,
+            7
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            3,
+            6,
+            4
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            9,
+            1,
+            3
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            5,
+            2,
+            6
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            8,
+            7,
+            4
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            9,
+            2,
+            4
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            8,
+            2,
+            3
+          ],
+          "sum": 13,
+          "reward": 72
+        }
+      ],
+      "recommendedByBalanced": "第1橫列",
+      "recommendedByConservative": "第1橫列",
+      "recommendedByAggressive": "第2橫列",
+      "recommendedByLearned": "第2橫列",
+      "recommendedLine": "第1橫列",
+      "recommendedReward": 180,
+      "selectedLine": "第2橫列",
+      "selectedLineValues": [
+        1,
+        2,
+        7
+      ],
+      "selectedSum": 10,
+      "actualReward": 80,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "左斜線",
+      "actualBestReward": 180,
+      "isOptimal": false,
+      "missedReward": 100,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-15T11:29:51.560Z",
+      "fullGrid": [
+        [
+          3,
+          5,
+          6
+        ],
+        [
+          4,
+          9,
+          8
+        ],
+        [
+          1,
+          2,
+          7
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            3,
+            5,
+            6
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            4,
+            9,
+            8
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            1,
+            2,
+            7
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            3,
+            4,
+            1
+          ],
+          "sum": 8,
+          "reward": 720
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            5,
+            9,
+            2
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            6,
+            8,
+            7
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            3,
+            9,
+            7
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            6,
+            9,
+            1
+          ],
+          "sum": 16,
+          "reward": 72
+        }
+      ],
+      "recommendedByBalanced": "右斜線",
+      "recommendedByConservative": "第1直列",
+      "recommendedByAggressive": "第1直列",
+      "recommendedByLearned": "第1直列",
+      "recommendedLine": "右斜線",
+      "recommendedReward": 1080,
+      "selectedLine": "第1直列",
+      "selectedLineValues": [
+        3,
+        4,
+        1
+      ],
+      "selectedSum": 8,
+      "actualReward": 720,
+      "followedBalanced": false,
+      "followedConservative": true,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第2橫列",
+      "actualBestReward": 1080,
+      "isOptimal": false,
+      "missedReward": 360,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-15T11:30:57.461Z",
+      "fullGrid": [
+        [
+          4,
+          5,
+          2
+        ],
+        [
+          9,
+          8,
+          7
+        ],
+        [
+          3,
+          6,
+          1
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            4,
+            5,
+            2
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            9,
+            8,
+            7
+          ],
+          "sum": 24,
+          "reward": 3600
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            3,
+            6,
+            1
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            4,
+            9,
+            3
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            5,
+            8,
+            6
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            2,
+            7,
+            1
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            4,
+            8,
+            1
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            2,
+            8,
+            3
+          ],
+          "sum": 13,
+          "reward": 72
+        }
+      ],
+      "recommendedByBalanced": "第2橫列",
+      "recommendedByConservative": "第2橫列",
+      "recommendedByAggressive": "第3橫列",
+      "recommendedByLearned": "第2橫列",
+      "recommendedLine": "第2橫列",
+      "recommendedReward": 3600,
+      "selectedLine": "第2橫列",
+      "selectedLineValues": [
+        9,
+        8,
+        7
+      ],
+      "selectedSum": 24,
+      "actualReward": 3600,
+      "followedBalanced": true,
+      "followedConservative": true,
+      "followedAggressive": false,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "第2橫列",
+      "actualBestReward": 3600,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": true,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-15T22:40:31.010Z",
+      "fullGrid": [
+        [
+          7,
+          1,
+          3
+        ],
+        [
+          6,
+          8,
+          9
+        ],
+        [
+          5,
+          2,
+          4
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            7,
+            1,
+            3
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            6,
+            8,
+            9
+          ],
+          "sum": 23,
+          "reward": 1800
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            5,
+            2,
+            4
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            7,
+            6,
+            5
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            1,
+            8,
+            2
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            3,
+            9,
+            4
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            7,
+            8,
+            4
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            3,
+            8,
+            5
+          ],
+          "sum": 16,
+          "reward": 72
+        }
+      ],
+      "recommendedByBalanced": "第1橫列",
+      "recommendedByConservative": "第1橫列",
+      "recommendedByAggressive": "第1橫列",
+      "recommendedByLearned": "第1橫列",
+      "recommendedLine": "第1橫列",
+      "recommendedReward": 1800,
+      "selectedLine": "第1橫列",
+      "selectedLineValues": [
+        7,
+        1,
+        3
+      ],
+      "selectedSum": 11,
+      "actualReward": 252,
+      "followedBalanced": true,
+      "followedConservative": true,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "第2橫列",
+      "actualBestReward": 1800,
+      "isOptimal": false,
+      "missedReward": 1548,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-15T22:41:36.781Z",
+      "fullGrid": [
+        [
+          9,
+          1,
+          7
+        ],
+        [
+          5,
+          8,
+          4
+        ],
+        [
+          6,
+          2,
+          3
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            9,
+            1,
+            7
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            5,
+            8,
+            4
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            6,
+            2,
+            3
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            9,
+            5,
+            6
+          ],
+          "sum": 20,
+          "reward": 306
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            1,
+            8,
+            2
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            7,
+            4,
+            3
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            9,
+            8,
+            3
+          ],
+          "sum": 20,
+          "reward": 306
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            7,
+            8,
+            6
+          ],
+          "sum": 21,
+          "reward": 1080
+        }
+      ],
+      "recommendedByBalanced": "左斜線",
+      "recommendedByConservative": "左斜線",
+      "recommendedByAggressive": "第3橫列",
+      "recommendedByLearned": "第3橫列",
+      "recommendedLine": "左斜線",
+      "recommendedReward": 1080,
+      "selectedLine": "第3橫列",
+      "selectedLineValues": [
+        6,
+        2,
+        3
+      ],
+      "selectedSum": 11,
+      "actualReward": 252,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "右斜線",
+      "actualBestReward": 1080,
+      "isOptimal": false,
+      "missedReward": 828,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-15T22:42:46.992Z",
+      "fullGrid": [
+        [
+          8,
+          6,
+          2
+        ],
+        [
+          4,
+          5,
+          3
+        ],
+        [
+          1,
+          7,
+          9
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            8,
+            6,
+            2
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            4,
+            5,
+            3
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            1,
+            7,
+            9
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            8,
+            4,
+            1
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            6,
+            5,
+            7
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            2,
+            3,
+            9
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            8,
+            5,
+            9
+          ],
+          "sum": 22,
+          "reward": 144
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            2,
+            5,
+            1
+          ],
+          "sum": 8,
+          "reward": 720
+        }
+      ],
+      "recommendedByBalanced": "第3直列",
+      "recommendedByConservative": "第2直列",
+      "recommendedByAggressive": "第3直列",
+      "recommendedByLearned": "第3直列",
+      "recommendedLine": "第3直列",
+      "recommendedReward": 720,
+      "selectedLine": "第3直列",
+      "selectedLineValues": [
+        2,
+        3,
+        9
+      ],
+      "selectedSum": 14,
+      "actualReward": 54,
+      "followedBalanced": true,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "右斜線",
+      "actualBestReward": 720,
+      "isOptimal": false,
+      "missedReward": 666,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-16T23:17:57.802Z",
+      "fullGrid": [
+        [
+          6,
+          1,
+          7
+        ],
+        [
+          9,
+          2,
+          3
+        ],
+        [
+          4,
+          8,
+          5
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            6,
+            1,
+            7
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            9,
+            2,
+            3
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            4,
+            8,
+            5
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            6,
+            9,
+            4
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            1,
+            2,
+            8
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            7,
+            3,
+            5
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            6,
+            2,
+            5
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            7,
+            2,
+            4
+          ],
+          "sum": 13,
+          "reward": 72
+        }
+      ],
+      "recommendedByBalanced": "第1橫列",
+      "recommendedByConservative": "左斜線",
+      "recommendedByAggressive": "第1直列",
+      "recommendedByLearned": "第1直列",
+      "recommendedLine": "第1橫列",
+      "recommendedReward": 252,
+      "selectedLine": "第1直列",
+      "selectedLineValues": [
+        6,
+        9,
+        4
+      ],
+      "selectedSum": 19,
+      "actualReward": 36,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第2直列",
+      "actualBestReward": 252,
+      "isOptimal": false,
+      "missedReward": 216,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-16T23:19:07.256Z",
+      "fullGrid": [
+        [
+          5,
+          7,
+          9
+        ],
+        [
+          4,
+          3,
+          8
+        ],
+        [
+          2,
+          6,
+          1
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            5,
+            7,
+            9
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            4,
+            3,
+            8
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            2,
+            6,
+            1
+          ],
+          "sum": 9,
+          "reward": 360
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            5,
+            4,
+            2
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            7,
+            3,
+            6
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            9,
+            8,
+            1
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            5,
+            3,
+            1
+          ],
+          "sum": 9,
+          "reward": 360
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            9,
+            3,
+            2
+          ],
+          "sum": 14,
+          "reward": 54
+        }
+      ],
+      "recommendedByBalanced": "第3直列",
+      "recommendedByConservative": "第1橫列",
+      "recommendedByAggressive": "第2直列",
+      "recommendedByLearned": "第3直列",
+      "recommendedLine": "第3直列",
+      "recommendedReward": 1080,
+      "selectedLine": "第3直列",
+      "selectedLineValues": [
+        9,
+        8,
+        1
+      ],
+      "selectedSum": 18,
+      "actualReward": 119,
+      "followedBalanced": true,
+      "followedConservative": false,
+      "followedAggressive": false,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "第1橫列",
+      "actualBestReward": 1080,
+      "isOptimal": false,
+      "missedReward": 961,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": true,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-16T23:20:16.307Z",
+      "fullGrid": [
+        [
+          6,
+          3,
+          7
+        ],
+        [
+          9,
+          8,
+          4
+        ],
+        [
+          1,
+          2,
+          5
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            6,
+            3,
+            7
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            9,
+            8,
+            4
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            1,
+            2,
+            5
+          ],
+          "sum": 8,
+          "reward": 720
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            6,
+            9,
+            1
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            3,
+            8,
+            2
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            7,
+            4,
+            5
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            6,
+            8,
+            5
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            7,
+            8,
+            1
+          ],
+          "sum": 16,
+          "reward": 72
+        }
+      ],
+      "recommendedByBalanced": "左斜線",
+      "recommendedByConservative": "第1直列",
+      "recommendedByAggressive": "第3橫列",
+      "recommendedByLearned": "第3橫列",
+      "recommendedLine": "左斜線",
+      "recommendedReward": 1080,
+      "selectedLine": "第3橫列",
+      "selectedLineValues": [
+        1,
+        2,
+        5
+      ],
+      "selectedSum": 8,
+      "actualReward": 720,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第2橫列",
+      "actualBestReward": 1080,
+      "isOptimal": false,
+      "missedReward": 360,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-18T10:36:03.158Z",
+      "fullGrid": [
+        [
+          1,
+          5,
+          8
+        ],
+        [
+          9,
+          4,
+          2
+        ],
+        [
+          3,
+          7,
+          6
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            1,
+            5,
+            8
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            9,
+            4,
+            2
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            3,
+            7,
+            6
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            1,
+            9,
+            3
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            5,
+            4,
+            7
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            8,
+            2,
+            6
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            1,
+            4,
+            6
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            8,
+            4,
+            3
+          ],
+          "sum": 15,
+          "reward": 180
+        }
+      ],
+      "recommendedByBalanced": "第3直列",
+      "recommendedByConservative": "第3直列",
+      "recommendedByAggressive": "第1直列",
+      "recommendedByLearned": "第1直列",
+      "recommendedLine": "第3直列",
+      "recommendedReward": 252,
+      "selectedLine": "第1直列",
+      "selectedLineValues": [
+        1,
+        9,
+        3
+      ],
+      "selectedSum": 13,
+      "actualReward": 72,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "左斜線",
+      "actualBestReward": 252,
+      "isOptimal": false,
+      "missedReward": 180,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-18T10:37:14.954Z",
+      "fullGrid": [
+        [
+          3,
+          6,
+          2
+        ],
+        [
+          7,
+          5,
+          1
+        ],
+        [
+          8,
+          4,
+          9
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            3,
+            6,
+            2
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            7,
+            5,
+            1
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            8,
+            4,
+            9
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            3,
+            7,
+            8
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            6,
+            5,
+            4
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            2,
+            1,
+            9
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            3,
+            5,
+            9
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            2,
+            5,
+            8
+          ],
+          "sum": 15,
+          "reward": 180
+        }
+      ],
+      "recommendedByBalanced": "左斜線",
+      "recommendedByConservative": "左斜線",
+      "recommendedByAggressive": "第3橫列",
+      "recommendedByLearned": "第3橫列",
+      "recommendedLine": "左斜線",
+      "recommendedReward": 1080,
+      "selectedLine": "第3橫列",
+      "selectedLineValues": [
+        8,
+        4,
+        9
+      ],
+      "selectedSum": 21,
+      "actualReward": 1080,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第3橫列",
+      "actualBestReward": 1080,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": true,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-18T10:38:24.002Z",
+      "fullGrid": [
+        [
+          6,
+          1,
+          3
+        ],
+        [
+          5,
+          8,
+          9
+        ],
+        [
+          4,
+          7,
+          2
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            6,
+            1,
+            3
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            5,
+            8,
+            9
+          ],
+          "sum": 22,
+          "reward": 144
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            4,
+            7,
+            2
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            6,
+            5,
+            4
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            1,
+            8,
+            7
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            3,
+            9,
+            2
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            6,
+            8,
+            2
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            3,
+            8,
+            4
+          ],
+          "sum": 15,
+          "reward": 180
+        }
+      ],
+      "recommendedByBalanced": "第2橫列",
+      "recommendedByConservative": "第1橫列",
+      "recommendedByAggressive": "第2橫列",
+      "recommendedByLearned": "左斜線",
+      "recommendedLine": "第2橫列",
+      "recommendedReward": 180,
+      "selectedLine": "左斜線",
+      "selectedLineValues": [
+        6,
+        8,
+        2
+      ],
+      "selectedSum": 16,
+      "actualReward": 72,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": false,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第1直列",
+      "actualBestReward": 180,
+      "isOptimal": false,
+      "missedReward": 108,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-18T23:14:29.641Z",
+      "fullGrid": [
+        [
+          2,
+          8,
+          4
+        ],
+        [
+          5,
+          1,
+          3
+        ],
+        [
+          6,
+          7,
+          9
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            2,
+            8,
+            4
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            5,
+            1,
+            3
+          ],
+          "sum": 9,
+          "reward": 360
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            6,
+            7,
+            9
+          ],
+          "sum": 22,
+          "reward": 144
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            2,
+            5,
+            6
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            8,
+            1,
+            7
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            4,
+            3,
+            9
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            2,
+            1,
+            9
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            4,
+            1,
+            6
+          ],
+          "sum": 11,
+          "reward": 252
+        }
+      ],
+      "recommendedByBalanced": "右斜線",
+      "recommendedByConservative": "第2橫列",
+      "recommendedByAggressive": "第2直列",
+      "recommendedByLearned": "第2直列",
+      "recommendedLine": "右斜線",
+      "recommendedReward": 360,
+      "selectedLine": "第2直列",
+      "selectedLineValues": [
+        8,
+        1,
+        7
+      ],
+      "selectedSum": 16,
+      "actualReward": 72,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第2橫列",
+      "actualBestReward": 360,
+      "isOptimal": false,
+      "missedReward": 288,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": true,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-18T23:15:43.836Z",
+      "fullGrid": [
+        [
+          6,
+          5,
+          4
+        ],
+        [
+          8,
+          9,
+          3
+        ],
+        [
+          1,
+          2,
+          7
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            6,
+            5,
+            4
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            8,
+            9,
+            3
+          ],
+          "sum": 20,
+          "reward": 306
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            1,
+            2,
+            7
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            6,
+            8,
+            1
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            5,
+            9,
+            2
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            4,
+            3,
+            7
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            6,
+            9,
+            7
+          ],
+          "sum": 22,
+          "reward": 144
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            4,
+            9,
+            1
+          ],
+          "sum": 14,
+          "reward": 54
+        }
+      ],
+      "recommendedByBalanced": "第1直列",
+      "recommendedByConservative": "第1橫列",
+      "recommendedByAggressive": "第1直列",
+      "recommendedByLearned": "第1直列",
+      "recommendedLine": "第1直列",
+      "recommendedReward": 306,
+      "selectedLine": "第1直列",
+      "selectedLineValues": [
+        6,
+        8,
+        1
+      ],
+      "selectedSum": 15,
+      "actualReward": 180,
+      "followedBalanced": true,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "第2橫列",
+      "actualBestReward": 306,
+      "isOptimal": false,
+      "missedReward": 126,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-18T23:16:44.401Z",
+      "fullGrid": [
+        [
+          9,
+          6,
+          4
+        ],
+        [
+          1,
+          2,
+          8
+        ],
+        [
+          3,
+          7,
+          5
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            9,
+            6,
+            4
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            1,
+            2,
+            8
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            3,
+            7,
+            5
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            9,
+            1,
+            3
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            6,
+            2,
+            7
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            4,
+            8,
+            5
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            9,
+            2,
+            5
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            4,
+            2,
+            3
+          ],
+          "sum": 9,
+          "reward": 360
+        }
+      ],
+      "recommendedByBalanced": "右斜線",
+      "recommendedByConservative": "右斜線",
+      "recommendedByAggressive": "第1橫列",
+      "recommendedByLearned": "右斜線",
+      "recommendedLine": "右斜線",
+      "recommendedReward": 360,
+      "selectedLine": "右斜線",
+      "selectedLineValues": [
+        4,
+        2,
+        3
+      ],
+      "selectedSum": 9,
+      "actualReward": 360,
+      "followedBalanced": true,
+      "followedConservative": true,
+      "followedAggressive": false,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "右斜線",
+      "actualBestReward": 360,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": true,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-20T09:59:39.808Z",
+      "fullGrid": [
+        [
+          8,
+          6,
+          3
+        ],
+        [
+          4,
+          2,
+          5
+        ],
+        [
+          9,
+          1,
+          7
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            8,
+            6,
+            3
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            4,
+            2,
+            5
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            9,
+            1,
+            7
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            8,
+            4,
+            9
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            6,
+            2,
+            1
+          ],
+          "sum": 9,
+          "reward": 360
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            3,
+            5,
+            7
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            8,
+            2,
+            7
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            3,
+            2,
+            9
+          ],
+          "sum": 14,
+          "reward": 54
+        }
+      ],
+      "recommendedByBalanced": "第3橫列",
+      "recommendedByConservative": "第3橫列",
+      "recommendedByAggressive": "第3橫列",
+      "recommendedByLearned": "第3橫列",
+      "recommendedLine": "第3橫列",
+      "recommendedReward": 1080,
+      "selectedLine": "第3橫列",
+      "selectedLineValues": [
+        9,
+        1,
+        7
+      ],
+      "selectedSum": 17,
+      "actualReward": 180,
+      "followedBalanced": true,
+      "followedConservative": true,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "第1直列",
+      "actualBestReward": 1080,
+      "isOptimal": false,
+      "missedReward": 900,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-20T10:00:28.448Z",
+      "fullGrid": [
+        [
+          5,
+          9,
+          4
+        ],
+        [
+          7,
+          8,
+          6
+        ],
+        [
+          2,
+          3,
+          1
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            5,
+            9,
+            4
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            7,
+            8,
+            6
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            2,
+            3,
+            1
+          ],
+          "sum": 6,
+          "reward": 10000
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            5,
+            7,
+            2
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            9,
+            8,
+            3
+          ],
+          "sum": 20,
+          "reward": 306
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            4,
+            6,
+            1
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            5,
+            8,
+            1
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            4,
+            8,
+            2
+          ],
+          "sum": 14,
+          "reward": 54
+        }
+      ],
+      "recommendedByBalanced": "第2直列",
+      "recommendedByConservative": "第2直列",
+      "recommendedByAggressive": "第3橫列",
+      "recommendedByLearned": "第3橫列",
+      "recommendedLine": "第2直列",
+      "recommendedReward": 10000,
+      "selectedLine": "第3橫列",
+      "selectedLineValues": [
+        2,
+        3,
+        1
+      ],
+      "selectedSum": 6,
+      "actualReward": 10000,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第3橫列",
+      "actualBestReward": 10000,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": true,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-20T10:01:20.194Z",
+      "fullGrid": [
+        [
+          9,
+          5,
+          6
+        ],
+        [
+          1,
+          4,
+          3
+        ],
+        [
+          2,
+          8,
+          7
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            9,
+            5,
+            6
+          ],
+          "sum": 20,
+          "reward": 306
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            1,
+            4,
+            3
+          ],
+          "sum": 8,
+          "reward": 720
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            2,
+            8,
+            7
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            9,
+            1,
+            2
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            5,
+            4,
+            8
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            6,
+            3,
+            7
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            9,
+            4,
+            7
+          ],
+          "sum": 20,
+          "reward": 306
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            6,
+            4,
+            2
+          ],
+          "sum": 12,
+          "reward": 108
+        }
+      ],
+      "recommendedByBalanced": "第1橫列",
+      "recommendedByConservative": "第1橫列",
+      "recommendedByAggressive": "第1橫列",
+      "recommendedByLearned": "第1橫列",
+      "recommendedLine": "第1橫列",
+      "recommendedReward": 720,
+      "selectedLine": "第1橫列",
+      "selectedLineValues": [
+        9,
+        5,
+        6
+      ],
+      "selectedSum": 20,
+      "actualReward": 306,
+      "followedBalanced": true,
+      "followedConservative": true,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "第2橫列",
+      "actualBestReward": 720,
+      "isOptimal": false,
+      "missedReward": 414,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-21T02:18:50.197Z",
+      "fullGrid": [
+        [
+          9,
+          6,
+          1
+        ],
+        [
+          7,
+          2,
+          8
+        ],
+        [
+          5,
+          4,
+          3
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            9,
+            6,
+            1
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            7,
+            2,
+            8
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            5,
+            4,
+            3
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            9,
+            7,
+            5
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            6,
+            2,
+            4
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            1,
+            8,
+            3
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            9,
+            2,
+            3
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            1,
+            2,
+            5
+          ],
+          "sum": 8,
+          "reward": 720
+        }
+      ],
+      "recommendedByBalanced": "第1直列",
+      "recommendedByConservative": "第1直列",
+      "recommendedByAggressive": "第2橫列",
+      "recommendedByLearned": "第2橫列",
+      "recommendedLine": "第1直列",
+      "recommendedReward": 1080,
+      "selectedLine": "第2橫列",
+      "selectedLineValues": [
+        7,
+        2,
+        8
+      ],
+      "selectedSum": 17,
+      "actualReward": 180,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第1直列",
+      "actualBestReward": 1080,
+      "isOptimal": false,
+      "missedReward": 900,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": true,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-21T02:19:56.524Z",
+      "fullGrid": [
+        [
+          7,
+          4,
+          9
+        ],
+        [
+          3,
+          5,
+          1
+        ],
+        [
+          2,
+          8,
+          6
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            7,
+            4,
+            9
+          ],
+          "sum": 20,
+          "reward": 306
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            3,
+            5,
+            1
+          ],
+          "sum": 9,
+          "reward": 360
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            2,
+            8,
+            6
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            7,
+            3,
+            2
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            4,
+            5,
+            8
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            9,
+            1,
+            6
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            7,
+            5,
+            6
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            9,
+            5,
+            2
+          ],
+          "sum": 16,
+          "reward": 72
+        }
+      ],
+      "recommendedByBalanced": "右斜線",
+      "recommendedByConservative": "左斜線",
+      "recommendedByAggressive": "第1橫列",
+      "recommendedByLearned": "第1橫列",
+      "recommendedLine": "右斜線",
+      "recommendedReward": 360,
+      "selectedLine": "第1橫列",
+      "selectedLineValues": [
+        7,
+        4,
+        9
+      ],
+      "selectedSum": 20,
+      "actualReward": 306,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第2橫列",
+      "actualBestReward": 360,
+      "isOptimal": false,
+      "missedReward": 54,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-21T02:21:05.034Z",
+      "fullGrid": [
+        [
+          9,
+          7,
+          5
+        ],
+        [
+          3,
+          1,
+          4
+        ],
+        [
+          6,
+          2,
+          8
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            9,
+            7,
+            5
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            3,
+            1,
+            4
+          ],
+          "sum": 8,
+          "reward": 720
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            6,
+            2,
+            8
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            9,
+            3,
+            6
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            7,
+            1,
+            2
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            5,
+            4,
+            8
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            9,
+            1,
+            8
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            5,
+            1,
+            6
+          ],
+          "sum": 12,
+          "reward": 108
+        }
+      ],
+      "recommendedByBalanced": "第1橫列",
+      "recommendedByConservative": "右斜線",
+      "recommendedByAggressive": "第2橫列",
+      "recommendedByLearned": "第2橫列",
+      "recommendedLine": "第1橫列",
+      "recommendedReward": 1080,
+      "selectedLine": "第1橫列",
+      "selectedLineValues": [
+        9,
+        7,
+        5
+      ],
+      "selectedSum": 21,
+      "actualReward": 1080,
+      "followedBalanced": true,
+      "followedConservative": false,
+      "followedAggressive": false,
+      "followedLearned": false,
+      "followedRecommendation": true,
+      "actualBestLine": "第1橫列",
+      "actualBestReward": 1080,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-21T23:43:36.478Z",
+      "fullGrid": [
+        [
+          3,
+          2,
+          5
+        ],
+        [
+          6,
+          7,
+          9
+        ],
+        [
+          1,
+          8,
+          4
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            3,
+            2,
+            5
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            6,
+            7,
+            9
+          ],
+          "sum": 22,
+          "reward": 144
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            1,
+            8,
+            4
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            3,
+            6,
+            1
+          ],
+          "sum": 10,
+          "reward": 80
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            2,
+            7,
+            8
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            5,
+            9,
+            4
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            3,
+            7,
+            4
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            5,
+            7,
+            1
+          ],
+          "sum": 13,
+          "reward": 72
+        }
+      ],
+      "recommendedByBalanced": "第1直列",
+      "recommendedByConservative": "第1直列",
+      "recommendedByAggressive": "第1直列",
+      "recommendedByLearned": "第1直列",
+      "recommendedLine": "第1直列",
+      "recommendedReward": 180,
+      "selectedLine": "第1直列",
+      "selectedLineValues": [
+        3,
+        6,
+        1
+      ],
+      "selectedSum": 10,
+      "actualReward": 80,
+      "followedBalanced": true,
+      "followedConservative": true,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "第2直列",
+      "actualBestReward": 180,
+      "isOptimal": false,
+      "missedReward": 100,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-21T23:44:36.262Z",
+      "fullGrid": [
+        [
+          3,
+          5,
+          4
+        ],
+        [
+          9,
+          8,
+          2
+        ],
+        [
+          7,
+          6,
+          1
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            3,
+            5,
+            4
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            9,
+            8,
+            2
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            7,
+            6,
+            1
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            3,
+            9,
+            7
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            5,
+            8,
+            6
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            4,
+            2,
+            1
+          ],
+          "sum": 7,
+          "reward": 36
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            3,
+            8,
+            1
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            4,
+            8,
+            7
+          ],
+          "sum": 19,
+          "reward": 36
+        }
+      ],
+      "recommendedByBalanced": "第2橫列",
+      "recommendedByConservative": "第1橫列",
+      "recommendedByAggressive": "第2橫列",
+      "recommendedByLearned": "第2橫列",
+      "recommendedLine": "第2橫列",
+      "recommendedReward": 108,
+      "selectedLine": "第2橫列",
+      "selectedLineValues": [
+        9,
+        8,
+        2
+      ],
+      "selectedSum": 19,
+      "actualReward": 36,
+      "followedBalanced": true,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "第1橫列",
+      "actualBestReward": 108,
+      "isOptimal": false,
+      "missedReward": 72,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": true,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-21T23:45:37.681Z",
+      "fullGrid": [
+        [
+          4,
+          8,
+          1
+        ],
+        [
+          3,
+          7,
+          2
+        ],
+        [
+          9,
+          6,
+          5
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            4,
+            8,
+            1
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            3,
+            7,
+            2
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            9,
+            6,
+            5
+          ],
+          "sum": 20,
+          "reward": 306
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            4,
+            3,
+            9
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            8,
+            7,
+            6
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            1,
+            2,
+            5
+          ],
+          "sum": 8,
+          "reward": 720
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            4,
+            7,
+            5
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            1,
+            7,
+            9
+          ],
+          "sum": 17,
+          "reward": 180
+        }
+      ],
+      "recommendedByBalanced": "第3直列",
+      "recommendedByConservative": "第3直列",
+      "recommendedByAggressive": "第2直列",
+      "recommendedByLearned": "第3直列",
+      "recommendedLine": "第3直列",
+      "recommendedReward": 1080,
+      "selectedLine": "第3直列",
+      "selectedLineValues": [
+        1,
+        2,
+        5
+      ],
+      "selectedSum": 8,
+      "actualReward": 720,
+      "followedBalanced": true,
+      "followedConservative": true,
+      "followedAggressive": false,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "第2直列",
+      "actualBestReward": 1080,
+      "isOptimal": false,
+      "missedReward": 360,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": true,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-22T23:54:32.598Z",
+      "fullGrid": [
+        [
+          6,
+          9,
+          3
+        ],
+        [
+          1,
+          8,
+          2
+        ],
+        [
+          4,
+          5,
+          7
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            6,
+            9,
+            3
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            1,
+            8,
+            2
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            4,
+            5,
+            7
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            6,
+            1,
+            4
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            9,
+            8,
+            5
+          ],
+          "sum": 22,
+          "reward": 144
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            3,
+            2,
+            7
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            6,
+            8,
+            7
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            3,
+            8,
+            4
+          ],
+          "sum": 15,
+          "reward": 180
+        }
+      ],
+      "recommendedByBalanced": "左斜線",
+      "recommendedByConservative": "右斜線",
+      "recommendedByAggressive": "第3直列",
+      "recommendedByLearned": "第3直列",
+      "recommendedLine": "左斜線",
+      "recommendedReward": 1080,
+      "selectedLine": "第3直列",
+      "selectedLineValues": [
+        3,
+        2,
+        7
+      ],
+      "selectedSum": 12,
+      "actualReward": 108,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "左斜線",
+      "actualBestReward": 1080,
+      "isOptimal": false,
+      "missedReward": 972,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-22T23:55:28.763Z",
+      "fullGrid": [
+        [
+          9,
+          5,
+          3
+        ],
+        [
+          6,
+          2,
+          8
+        ],
+        [
+          7,
+          4,
+          1
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            9,
+            5,
+            3
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            6,
+            2,
+            8
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            7,
+            4,
+            1
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            9,
+            6,
+            7
+          ],
+          "sum": 22,
+          "reward": 144
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            5,
+            2,
+            4
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            3,
+            8,
+            1
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            9,
+            2,
+            1
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            3,
+            2,
+            7
+          ],
+          "sum": 12,
+          "reward": 108
+        }
+      ],
+      "recommendedByBalanced": "第2直列",
+      "recommendedByConservative": "第1直列",
+      "recommendedByAggressive": "第2直列",
+      "recommendedByLearned": "第2直列",
+      "recommendedLine": "第2直列",
+      "recommendedReward": 252,
+      "selectedLine": "第2直列",
+      "selectedLineValues": [
+        5,
+        2,
+        4
+      ],
+      "selectedSum": 11,
+      "actualReward": 252,
+      "followedBalanced": true,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "第2直列",
+      "actualBestReward": 252,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": true,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-22T23:56:34.332Z",
+      "fullGrid": [
+        [
+          1,
+          2,
+          9
+        ],
+        [
+          8,
+          4,
+          5
+        ],
+        [
+          7,
+          3,
+          6
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            1,
+            2,
+            9
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            8,
+            4,
+            5
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            7,
+            3,
+            6
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            1,
+            8,
+            7
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            2,
+            4,
+            3
+          ],
+          "sum": 9,
+          "reward": 360
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            9,
+            5,
+            6
+          ],
+          "sum": 20,
+          "reward": 306
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            1,
+            4,
+            6
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            9,
+            4,
+            7
+          ],
+          "sum": 20,
+          "reward": 306
+        }
+      ],
+      "recommendedByBalanced": "第2橫列",
+      "recommendedByConservative": "第2直列",
+      "recommendedByAggressive": "第3直列",
+      "recommendedByLearned": "第3直列",
+      "recommendedLine": "第2橫列",
+      "recommendedReward": 360,
+      "selectedLine": "第3直列",
+      "selectedLineValues": [
+        9,
+        5,
+        6
+      ],
+      "selectedSum": 20,
+      "actualReward": 306,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第2直列",
+      "actualBestReward": 360,
+      "isOptimal": false,
+      "missedReward": 54,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": true,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": false
+    },
+    {
+      "timestamp": "2025-12-23T22:48:48.566Z",
+      "fullGrid": [
+        [
+          6,
+          3,
+          5
+        ],
+        [
+          9,
+          2,
+          4
+        ],
+        [
+          8,
+          1,
+          7
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            6,
+            3,
+            5
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            9,
+            2,
+            4
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            8,
+            1,
+            7
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            6,
+            9,
+            8
+          ],
+          "sum": 23,
+          "reward": 1800
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            3,
+            2,
+            1
+          ],
+          "sum": 6,
+          "reward": 10000
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            5,
+            4,
+            7
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            6,
+            2,
+            7
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            5,
+            2,
+            8
+          ],
+          "sum": 15,
+          "reward": 180
+        }
+      ],
+      "recommendedByBalanced": "左斜線",
+      "recommendedByConservative": "左斜線",
+      "recommendedByAggressive": "第2直列",
+      "recommendedByLearned": "第2直列",
+      "recommendedLine": "左斜線",
+      "recommendedReward": 10000,
+      "selectedLine": "第2直列",
+      "selectedLineValues": [
+        3,
+        2,
+        1
+      ],
+      "selectedSum": 6,
+      "actualReward": 10000,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第2直列",
+      "actualBestReward": 10000,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": true,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-23T22:49:40.489Z",
+      "fullGrid": [
+        [
+          4,
+          8,
+          6
+        ],
+        [
+          5,
+          1,
+          3
+        ],
+        [
+          9,
+          2,
+          7
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            4,
+            8,
+            6
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            5,
+            1,
+            3
+          ],
+          "sum": 9,
+          "reward": 360
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            9,
+            2,
+            7
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            4,
+            5,
+            9
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            8,
+            1,
+            2
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            6,
+            3,
+            7
+          ],
+          "sum": 16,
+          "reward": 72
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            4,
+            1,
+            7
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            6,
+            1,
+            9
+          ],
+          "sum": 16,
+          "reward": 72
+        }
+      ],
+      "recommendedByBalanced": "第2橫列",
+      "recommendedByConservative": "第2橫列",
+      "recommendedByAggressive": "第2橫列",
+      "recommendedByLearned": "第2橫列",
+      "recommendedLine": "第2橫列",
+      "recommendedReward": 360,
+      "selectedLine": "第2橫列",
+      "selectedLineValues": [
+        5,
+        1,
+        3
+      ],
+      "selectedSum": 9,
+      "actualReward": 360,
+      "followedBalanced": true,
+      "followedConservative": true,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "第2橫列",
+      "actualBestReward": 360,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": true,
+      "aggressiveWasOptimal": true,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-23T22:50:32.467Z",
+      "fullGrid": [
+        [
+          5,
+          6,
+          7
+        ],
+        [
+          4,
+          8,
+          3
+        ],
+        [
+          2,
+          9,
+          1
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            5,
+            6,
+            7
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            4,
+            8,
+            3
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            2,
+            9,
+            1
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            5,
+            4,
+            2
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            6,
+            8,
+            9
+          ],
+          "sum": 23,
+          "reward": 1800
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            7,
+            3,
+            1
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            5,
+            8,
+            1
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            7,
+            8,
+            2
+          ],
+          "sum": 17,
+          "reward": 180
+        }
+      ],
+      "recommendedByBalanced": "第2直列",
+      "recommendedByConservative": "第2直列",
+      "recommendedByAggressive": "第3直列",
+      "recommendedByLearned": "第2直列",
+      "recommendedLine": "第2直列",
+      "recommendedReward": 1800,
+      "selectedLine": "第2直列",
+      "selectedLineValues": [
+        6,
+        8,
+        9
+      ],
+      "selectedSum": 23,
+      "actualReward": 1800,
+      "followedBalanced": true,
+      "followedConservative": true,
+      "followedAggressive": false,
+      "followedLearned": true,
+      "followedRecommendation": true,
+      "actualBestLine": "第2直列",
+      "actualBestReward": 1800,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": true,
+      "conservativeWasOptimal": true,
+      "aggressiveWasOptimal": false,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-25T05:58:51.896Z",
+      "fullGrid": [
+        [
+          6,
+          7,
+          1
+        ],
+        [
+          2,
+          8,
+          9
+        ],
+        [
+          4,
+          3,
+          5
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            6,
+            7,
+            1
+          ],
+          "sum": 14,
+          "reward": 54
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            2,
+            8,
+            9
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            4,
+            3,
+            5
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            6,
+            2,
+            4
+          ],
+          "sum": 12,
+          "reward": 108
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            7,
+            8,
+            3
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            1,
+            9,
+            5
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            6,
+            8,
+            5
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            1,
+            8,
+            4
+          ],
+          "sum": 13,
+          "reward": 72
+        }
+      ],
+      "recommendedByBalanced": "第2直列",
+      "recommendedByConservative": "第2直列",
+      "recommendedByAggressive": "第3直列",
+      "recommendedByLearned": "第3直列",
+      "recommendedLine": "第2直列",
+      "recommendedReward": 180,
+      "selectedLine": "第3直列",
+      "selectedLineValues": [
+        1,
+        9,
+        5
+      ],
+      "selectedSum": 15,
+      "actualReward": 180,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第3直列",
+      "actualBestReward": 180,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": true,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-25T05:59:37.203Z",
+      "fullGrid": [
+        [
+          3,
+          2,
+          1
+        ],
+        [
+          6,
+          7,
+          5
+        ],
+        [
+          8,
+          4,
+          9
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            3,
+            2,
+            1
+          ],
+          "sum": 6,
+          "reward": 10000
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            6,
+            7,
+            5
+          ],
+          "sum": 18,
+          "reward": 119
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            8,
+            4,
+            9
+          ],
+          "sum": 21,
+          "reward": 1080
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            3,
+            6,
+            8
+          ],
+          "sum": 17,
+          "reward": 180
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            2,
+            7,
+            4
+          ],
+          "sum": 13,
+          "reward": 72
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            1,
+            5,
+            9
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            3,
+            7,
+            9
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            1,
+            7,
+            8
+          ],
+          "sum": 16,
+          "reward": 72
+        }
+      ],
+      "recommendedByBalanced": "第2直列",
+      "recommendedByConservative": "第1橫列",
+      "recommendedByAggressive": "第1橫列",
+      "recommendedByLearned": "第1橫列",
+      "recommendedLine": "第2直列",
+      "recommendedReward": 10000,
+      "selectedLine": "第1橫列",
+      "selectedLineValues": [
+        3,
+        2,
+        1
+      ],
+      "selectedSum": 6,
+      "actualReward": 10000,
+      "followedBalanced": false,
+      "followedConservative": true,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第1橫列",
+      "actualBestReward": 10000,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": true,
+      "aggressiveWasOptimal": true,
+      "learnedWasOptimal": true
+    },
+    {
+      "timestamp": "2025-12-25T06:01:17.880Z",
+      "fullGrid": [
+        [
+          4,
+          7,
+          9
+        ],
+        [
+          3,
+          2,
+          1
+        ],
+        [
+          8,
+          6,
+          5
+        ]
+      ],
+      "allLines": [
+        {
+          "name": "第1橫列",
+          "values": [
+            4,
+            7,
+            9
+          ],
+          "sum": 20,
+          "reward": 306
+        },
+        {
+          "name": "第2橫列",
+          "values": [
+            3,
+            2,
+            1
+          ],
+          "sum": 6,
+          "reward": 10000
+        },
+        {
+          "name": "第3橫列",
+          "values": [
+            8,
+            6,
+            5
+          ],
+          "sum": 19,
+          "reward": 36
+        },
+        {
+          "name": "第1直列",
+          "values": [
+            4,
+            3,
+            8
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第2直列",
+          "values": [
+            7,
+            2,
+            6
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "第3直列",
+          "values": [
+            9,
+            1,
+            5
+          ],
+          "sum": 15,
+          "reward": 180
+        },
+        {
+          "name": "左斜線",
+          "values": [
+            4,
+            2,
+            5
+          ],
+          "sum": 11,
+          "reward": 252
+        },
+        {
+          "name": "右斜線",
+          "values": [
+            9,
+            2,
+            8
+          ],
+          "sum": 19,
+          "reward": 36
+        }
+      ],
+      "recommendedByBalanced": "第1直列",
+      "recommendedByConservative": "第1直列",
+      "recommendedByAggressive": "第2橫列",
+      "recommendedByLearned": "第2橫列",
+      "recommendedLine": "第1直列",
+      "recommendedReward": 10000,
+      "selectedLine": "第2橫列",
+      "selectedLineValues": [
+        3,
+        2,
+        1
+      ],
+      "selectedSum": 6,
+      "actualReward": 10000,
+      "followedBalanced": false,
+      "followedConservative": false,
+      "followedAggressive": true,
+      "followedLearned": true,
+      "followedRecommendation": false,
+      "actualBestLine": "第2橫列",
+      "actualBestReward": 10000,
+      "isOptimal": true,
+      "missedReward": 0,
+      "balancedWasOptimal": false,
+      "conservativeWasOptimal": false,
+      "aggressiveWasOptimal": true,
+      "learnedWasOptimal": true
+    }
+  ],
+  "metadata": {
+    "firstGame": "2025-12-03T06:09:16.705Z",
+    "lastGame": "2025-12-25T06:01:17.880Z",
+    "averageReward": 1461,
+    "highRewardCount": 16
+  }
+}
